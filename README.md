@@ -1,6 +1,6 @@
 # alpha冲刺
 
-博客链接：
+博客链接：https://www.cnblogs.com/starryship/p/18553366
 
 前端仓库：[healthyFZU/qianDuan](https://github.com/healthyFZU/qianDuan)
 
@@ -8,4 +8,5 @@
 
 ## 1.0.0
 
-![show](F:\class\software\a_group\alpha\github\image\show.gif)
+
+<p><img align="center" src="image/show.gif" alt="show" /></p>
